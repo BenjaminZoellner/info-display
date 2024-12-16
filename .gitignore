@@ -1,0 +1,5 @@
+*.swp
+.qmake.stash
+Makefile
+bin/*
+build/*
